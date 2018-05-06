@@ -2,7 +2,7 @@ import requests
 import numpy as np
 import pandas as pd
 
-auth = {"Authorization": "Bearer 1M3wo1f-Mg55kQTjZIglRg5Esz6qT0_XwXvUV7mhlccJx_1Cjd-EAPWL3SVJvPyl3-ATaQi-VPBr0hwljFKDI5pYUliSGoBPYqDxmkPDCbbRmmYdo2c_1LSTbKK9WnYx"}
+auth = {"Authorization": "Bearer #SECRET..."}
 search_lst = ["location=94709", "term=restaurant"]
 student_zips = [94704, 94709]
 non_student_zips = [94702, 94703, 94705, 94710]
